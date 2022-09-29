@@ -1,2 +1,3 @@
-# neutron-rei
-Neutron in Rei
+# Neutron Rei
+
+Neutron in Rei.
