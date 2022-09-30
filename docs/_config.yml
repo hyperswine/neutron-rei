@@ -1,0 +1,11 @@
+collections:
+  authors:
+    output: true
+
+remote_theme: just-the-docs/just-the-docs
+
+aux_links:
+  "Github":
+    - "//github.com/hyperswine/neutron-rei"
+
+footer_content: "Neutron<sup>TM</sup>"
