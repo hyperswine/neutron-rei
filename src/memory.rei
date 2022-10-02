@@ -13,7 +13,12 @@ Action: {
     DMAWriteBuffer
 }
 
-NeutronDevice: {}
+// DMA semantics
+// DMA prob uses MMIO to tell the device of interest, to start doing an action
+
+NeutronDevice: {
+
+}
 
 // EXPORT MEMORY MANAGEMENT PROTOCOLS TO spx:mem
 
