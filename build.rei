@@ -20,3 +20,9 @@ target = {
         }
     }
 }
+
+lib = {
+    "neutronapi" = {
+        default = true
+    }
+}
