@@ -9,3 +9,5 @@ aux_links:
     - "//github.com/hyperswine/neutron-rei"
 
 footer_content: "Neutron<sup>TM</sup>"
+
+logo: "Neutron.png"
